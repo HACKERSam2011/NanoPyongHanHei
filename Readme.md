@@ -1,7 +1,7 @@
 <div align="center">
 
-# 纳米丰宋(NanoFullSong) [更新]
-### 作者：HACKERSam    |    邮箱:3582930858@qq.com
+# 纳米平汉宋(NanoPyongHanHei) [更新]
+### 作者：HACKERSam（H.S.S. - 寒沙）    |    邮箱:3582930858@qq.com
 </div>
 
 ![s0](s0.png)
